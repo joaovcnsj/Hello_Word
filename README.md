@@ -1,4 +1,4 @@
 # Hello_Word
 
 
-THIS IS SPARTA
+THIS  IS  SPARTA
